@@ -1,6 +1,4 @@
-<div align="center">
 
-# Paul Brucks
 
 ### Developer · NRW · Lua
 
