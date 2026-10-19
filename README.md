@@ -21,6 +21,6 @@ Developer from NRW, Germany. I build FiveM resources, web platforms and security
 
 ## Stack
 
-**Languages:** Lua, PHP, JavaScript, Python, HTML and CSS.  
-**Database:** MySQL.  
-**Platforms & tools:** FiveM, Discord, GitHub, VS Code, Windows, Linux and Plesk.
+- **Languages:** Lua, PHP, JavaScript, Python, HTML and CSS.
+- **Database:** MySQL.
+- **Platforms & tools:** FiveM, Discord, GitHub, VS Code, Windows, Linux and Plesk.
